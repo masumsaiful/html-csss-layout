@@ -1,0 +1,94 @@
+.container{
+    width: 1200px;
+    background:blue;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    
+    
+    
+}
+
+.one{
+    width: 20%;
+    height: 130px;
+    background: #2b922b;
+    float: left;
+    
+}
+.two{
+    width: 35%;
+    height: 130px;
+    background:#294980;
+    float: left;
+}
+.three{
+        width: 35%;
+    height: 130px;
+    background:#4040bd;
+    float: left;
+}
+.four{
+    width: 10%;
+    height: 130px;
+    float: left;
+    background:#28ab20;
+}
+
+.fruit{
+    width: 1200px;
+    background:blue;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    
+}
+
+.mango{
+        width: 15%;
+    height: 185px;
+    background: #5A91F0;
+    float: left;
+}
+.orange {width: 75%;
+height: 185px;
+background: #CE7809;
+float: left;
+    
+}
+
+.banana{width: 10%;
+height: 100px;
+background: #0D2959;
+float: left;}
+
+.food{
+    width: 1200px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+
+.rice{width: 45%;
+height: 100px;
+background: #515958;
+float: left;
+    
+    
+}
+.lental{width: 45%;
+height: 100px;
+background: #1B9F13;
+float: left;}
+
+
+.fish{
+    width: 10%;
+height: 185px;
+background: #AB0404;
+float: left;
+margin-top: -85px;
+}
